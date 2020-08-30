@@ -1,6 +1,6 @@
 ## Lab_1
 
-I am using Seed Security Lab environment (Virtual Machine), which can easily be set up using VirtualBox. The virtual image of Seed Security Lab can be downloaded from [here] (https://seedsecuritylabs.org/lab_env.html).
+I am using Seed Security Lab environment (Virtual Machine), which can easily be set up using VirtualBox. The virtual image of Seed Security Lab can be downloaded from [here](https://seedsecuritylabs.org/lab_env.html).
 
 ---
 ### Task 1: Writing Packet Sniffing Program
